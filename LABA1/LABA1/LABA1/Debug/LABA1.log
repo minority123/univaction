@@ -1,0 +1,4 @@
+﻿  LABA1.cpp
+C:\Users\Urod\Desktop\уник\VisualStudio\sem2\LABA1\LABA1\LABA1\LABA1.cpp(32,12): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\Urod\Desktop\уник\VisualStudio\sem2\LABA1\LABA1\LABA1\LABA1.cpp(36,23): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  LABA1.vcxproj -> C:\Users\Urod\Desktop\уник\VisualStudio\sem2\LABA1\LABA1\Debug\LABA1.exe
